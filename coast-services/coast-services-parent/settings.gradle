@@ -1,4 +1,0 @@
-rootProject.name = 'com.dbschenker.coast'
-include 'coast-services-web'
-findProject(':coast-services-web')?.name = 'coast-web'
-
